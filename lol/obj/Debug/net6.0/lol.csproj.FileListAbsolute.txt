@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\lol\bin\Debug\net6.0\lol.exe
+C:\Users\Admin\Desktop\lol\bin\Debug\net6.0\lol.deps.json
+C:\Users\Admin\Desktop\lol\bin\Debug\net6.0\lol.runtimeconfig.json
+C:\Users\Admin\Desktop\lol\bin\Debug\net6.0\lol.dll
+C:\Users\Admin\Desktop\lol\bin\Debug\net6.0\lol.pdb
+C:\Users\Admin\Desktop\lol\obj\Debug\net6.0\lol.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\lol\obj\Debug\net6.0\lol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\lol\obj\Debug\net6.0\lol.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\lol\obj\Debug\net6.0\lol.AssemblyInfo.cs
+C:\Users\Admin\Desktop\lol\obj\Debug\net6.0\lol.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\lol\obj\Debug\net6.0\lol.dll
+C:\Users\Admin\Desktop\lol\obj\Debug\net6.0\refint\lol.dll
+C:\Users\Admin\Desktop\lol\obj\Debug\net6.0\lol.pdb
+C:\Users\Admin\Desktop\lol\obj\Debug\net6.0\lol.genruntimeconfig.cache
+C:\Users\Admin\Desktop\lol\obj\Debug\net6.0\ref\lol.dll
